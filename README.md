@@ -23,8 +23,8 @@ A simple, mobile-responsive Tic Tac Toe game built with HTML, CSS, and JavaScrip
 - HTML for the page structure
 - CSS for styling and responsive layout
 - JavaScript for game logic and interactivity
-
-- ![Tic Tac Toe Screenshot](./Screenshot.png)
+##Preview
+  ![Tic Tac Toe Screenshot](./Screenshot.png)
 
 
 ## License
